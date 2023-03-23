@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.mainDetail{
+    Width: 250px;
+    position: absolute;
+    padding: 10px;
+    top:-22px;
+    left:-10px;
+    font-size: small;
+    background-color: #e6f0f3;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainDetailNone{
+    display:none;
+    Width: 400px;
+    position: absolute;
+    left: 10px;
+}
+
+header{
+    font-weight: 700;
+    margin-top: -20px
+}
+
+.arrow{
+    position: relative;
+    top:16px;
+    right:40px
+}
+
+.key{
+    font-weight: 500;
+}
+
+

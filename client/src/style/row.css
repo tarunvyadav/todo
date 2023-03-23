@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.detailenclosure{
+    position:relative
+}
+
+.id{
+    padding:0px 20px
+}
+
+.title {
+    /* padding: 0px 20px; */
+    width:500px
+}
+
+.userDetail{
+    padding:3px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.userDetail:hover {
+    background-color: #008bdc;
+}
